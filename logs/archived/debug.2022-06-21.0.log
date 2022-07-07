@@ -1,0 +1,4 @@
+2022-06-21 11:11:18,380 INFO  RecipeController:36 - [] [getallrecipes] info message
+2022-06-21 11:11:18,385 WARN  RecipeController:37 - [] [getallrecipes] warn message
+2022-06-21 11:11:18,385 ERROR RecipeController:38 - [] [getallrecipes] error message
+2022-06-21 11:11:18,385 DEBUG RecipeController:39 - [] [getallrecipes] debug message

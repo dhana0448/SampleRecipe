@@ -1,0 +1,16 @@
+2022-06-20 12:03:30,983 INFO  RecipeController:36 - [] [getallrecipes] info message
+2022-06-20 12:03:30,985 WARN  RecipeController:37 - [] [getallrecipes] warn message
+2022-06-20 12:03:30,985 ERROR RecipeController:38 - [] [getallrecipes] error message
+2022-06-20 12:03:30,985 DEBUG RecipeController:39 - [] [getallrecipes] debug message
+2022-06-20 12:16:15,663 INFO  RecipeController:36 - [] [getallrecipes] info message
+2022-06-20 12:16:15,665 WARN  RecipeController:37 - [] [getallrecipes] warn message
+2022-06-20 12:16:15,666 ERROR RecipeController:38 - [] [getallrecipes] error message
+2022-06-20 12:16:15,666 DEBUG RecipeController:39 - [] [getallrecipes] debug message
+2022-06-20 12:19:50,674 INFO  RecipeController:36 - [] [getallrecipes] info message
+2022-06-20 12:19:50,675 WARN  RecipeController:37 - [] [getallrecipes] warn message
+2022-06-20 12:19:50,675 ERROR RecipeController:38 - [] [getallrecipes] error message
+2022-06-20 12:19:50,675 DEBUG RecipeController:39 - [] [getallrecipes] debug message
+2022-06-20 14:26:52,315 INFO  RecipeController:36 - [] [getallrecipes] info message
+2022-06-20 14:26:52,318 WARN  RecipeController:37 - [] [getallrecipes] warn message
+2022-06-20 14:26:52,318 ERROR RecipeController:38 - [] [getallrecipes] error message
+2022-06-20 14:26:52,319 DEBUG RecipeController:39 - [] [getallrecipes] debug message
