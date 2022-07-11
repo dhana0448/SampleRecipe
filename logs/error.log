@@ -26,3 +26,17 @@ Action:
 
 Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
 
+2022-07-08 10:33:04,889 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
