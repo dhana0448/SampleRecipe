@@ -1,1 +1,5 @@
 2022-07-12 17:14:29,483 ERROR com.samplerecipe.controller.RecipeController [http-nio-8082-exec-1] recipe with the Id 88 is not in database
+2022-07-12 17:47:41,765 ERROR com.samplerecipe.controller.RecipeController [http-nio-8082-exec-1] recipe with the Id 88 is not in database
+2022-07-12 17:49:24,841 ERROR com.samplerecipe.controller.RecipeController [http-nio-8082-exec-5] There is no recipe with the Id 75 to delete
+2022-07-12 17:49:34,300 WARN com.samplerecipe.controller.RecipeController [http-nio-8082-exec-7] i is not used in anywhere
+2022-07-12 17:49:34,301 INFO com.samplerecipe.controller.RecipeController [http-nio-8082-exec-7] Fetch all Recipes from the database
